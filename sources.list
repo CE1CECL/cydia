@@ -1,0 +1,26 @@
+deb http://apt.saurik.com/ ios/1146.00 main
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb http://coolbooter.com/ ./
+deb http://cydia.akemi.ai/ ./
+deb http://cydia.invoxiplaygames.uk/ ./
+deb http://cydia.invoxiplaygames.uk/beta/ ./
+deb http://julio.hackyouriphone.org/ ./
+deb http://kok3shidoll.github.io/repo/ ./
+deb http://lukezgd.github.io/repo/ ./
+deb http://modmyi.saurik.com/ stable main
+deb http://repo.galactic-server.info/ ./
+deb http://repo.hackyouriphone.org/ ./
+deb http://repo.tihmstar.net/ ./
+deb http://web.archive.org/web/20240625183847id_/http://apt.saurik.com/ ios/1146.00 main
+deb http://web.archive.org/web/20240625183847id_/http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb http://web.archive.org/web/20240625183847id_/http://coolbooter.com/ ./
+deb http://web.archive.org/web/20240625183847id_/http://cydia.akemi.ai/ ./
+deb http://web.archive.org/web/20240625183847id_/http://cydia.invoxiplaygames.uk/ ./
+deb http://web.archive.org/web/20240625183847id_/http://cydia.invoxiplaygames.uk/beta/ ./
+deb http://web.archive.org/web/20240625183847id_/http://julio.hackyouriphone.org/ ./
+deb http://web.archive.org/web/20240625183847id_/http://kok3shidoll.github.io/repo/ ./
+deb http://web.archive.org/web/20240625183847id_/http://lukezgd.github.io/repo/ ./
+deb http://web.archive.org/web/20240625183847id_/http://modmyi.saurik.com/ stable main
+deb http://web.archive.org/web/20240625183847id_/http://repo.galactic-server.info/ ./
+deb http://web.archive.org/web/20240625183847id_/http://repo.hackyouriphone.org/ ./
+deb http://web.archive.org/web/20240625183847id_/http://repo.tihmstar.net/ ./

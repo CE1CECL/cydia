@@ -1,0 +1,9 @@
+Package: allpkgs
+Name: All Packages
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Description: Install All Packages - ChrisEric1 CECL
+Maintainer: Christopher Lentocha <christopherericlentocha@gmail.com>
+Author: Christopher Lentocha <christopherericlentocha@gmail.com>
+Section: CE1CECL
+Pre-Depends: ai.akemi.appsyncunified, applist, apt, apt7, apt7-key, apt7-lib, aptitude, base, bash, berkeleydb, bzip2, ch.ringwald.hidsupport, ch.ringwald.springboardaccess, com.coolbooter.coolbooter, com.coolbooter.coolbootercli, com.hackyouriphone.IconRepo, com.hackyouriphone.ifile, com.hackyouriphone.localiapstore, com.julioverne.cydown, com.lukezgd.kDFUBundles, com.officialscheduler.mterminal, com.rpetrich.rocketbootstrap, com.saurik.afc2d, com.saurik.iphone.ske, com.saurik.patcyh, com.saurik.substrate.safemode, com.unlimapps.uasharedtools, com.unlimapps.uaupdatetools, coreutils, coreutils-bin, curl, cwidget, cydia, cydia-lproj, darwintools, debianutils, diffutils, diskdev-cmds, dpkg, expat, file, file-cmds, findutils, firmware-sbin, gettext, git, gnupg, grep, gzip, jp.ashikase.mousesupport, kloader, ldid, libcrippy-1.0.0, libpartialzip-1.0.0, libsigc++, libstatusbar, lzma, mobilesubstrate, nano, ncurses, openssh, openssl, org.thebigboss.repo.icons, org.tihmstar.kDFUApp, org.tihmstar.phoenix-wallpaper, p7zip, pam, pam-modules, png, preferenceloader, profile.d, readline, sed, shell-cmds, sudo, system-cmds, tar, top, uikittools, uk.invoxiplaygames.checkmatestore, uk.invoxiplaygames.discold, unrar, unzip, veency, wget, xpwn, zip
