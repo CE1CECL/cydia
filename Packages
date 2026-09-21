@@ -62,7 +62,7 @@ Installed-Size: 12
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: apt7
 Conflicts: cydia (<< 1.0.2843-1)
-Filename: ./archives/apt_1%3a0-23_iphoneos-arm.deb
+Filename: ./archives/apt_13a0-23_iphoneos-arm.deb
 Size: 686
 MD5sum: c26a27bdd7e7edbc496ed16aafcdf408
 SHA1: 9a324dce07285e7be26cb139a9c10d0db9a938c0
@@ -923,7 +923,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 159
 Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), ch.ringwald.hidsupport (>= 1.3.1), preferenceloader, applist, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Filename: ./archives/jp.ashikase.mousesupport_1%3a1.0_iphoneos-arm.deb
+Filename: ./archives/jp.ashikase.mousesupport_13a1.0_iphoneos-arm.deb
 Size: 25832
 MD5sum: 612d916500d7de551e34989796aef051
 SHA1: d4124d9e39cc90d714d627ae057781ffd05c2185
@@ -981,7 +981,7 @@ Version: 1:1.2.1
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 272
-Filename: ./archives/ldid_1%3a1.2.1_iphoneos-arm.deb
+Filename: ./archives/ldid_13a1.2.1_iphoneos-arm.deb
 Size: 46666
 MD5sum: 52fba17f6b568ca3dafc1b1be6572e53
 SHA1: e98ca54ee40ad45c26f4c4881fe39c16dfd7b8b3
@@ -1047,7 +1047,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 184
 Depends: mobilesubstrate,  firmware (>= 4.0), firmware (<< 7.0) | com.rpetrich.rocketbootstrap
-Filename: ./archives/libstatusbar_1%3a0.9.9.0-1_iphoneos-arm.deb
+Filename: ./archives/libstatusbar_13a0.9.9.0-1_iphoneos-arm.deb
 Size: 46086
 MD5sum: ad93d1e34442b08a564c90995e9ea240
 SHA1: b1ed9c47a6dd244fcfc5c2616a5a19f52d9972a2
